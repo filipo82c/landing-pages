@@ -44,4 +44,6 @@ Cada carpeta contiene:
 
 ## 👨‍💻 Autor
 Filip Sanabria 
-Proyecto realizado como actividad académica
+
+LINK Grupal del github 
+https://github.com/ldmmoreno2003-bot/entrega-proyecto-grupo.git
